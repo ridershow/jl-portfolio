@@ -4,7 +4,20 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Jérémy Lanfranchi Portfolio - Growth Marketer & Photographer`,
+    author: "Jérémy Lanfranchi",
+    description: "A collection of my works.",
+    siteUrl: "https://jeremylanfranchi.com",
+    social: [
+      {
+        name: "twitter",
+        url: "https://twitter.com/jeditch",
+      },
+      {
+        name: "github",
+        url: "https://github.com/ridershow",
+      },
+    ],
   },
   plugins: [
     {
