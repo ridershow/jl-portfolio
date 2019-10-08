@@ -10,6 +10,10 @@ module.exports = {
     siteUrl: "https://jeremylanfranchi.com",
     social: [
       {
+        name: "instagram",
+        url: "https://instagram.com/ridershow",
+      },
+      {
         name: "twitter",
         url: "https://twitter.com/jeditch",
       },
